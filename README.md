@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi! 👋 I´m Jhanpiere🙋‍♂️
+"I am an engineer and developer who found in programming a way to solve everyday problems💡."
+
+I´m studying and focusing on **frontend development**.💻
+
+>Let´s create a better world. 🌎
+
+### Contact🤝
 
 <!--
 **jhanpieremontes/jhanpieremontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
