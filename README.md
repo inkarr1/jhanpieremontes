@@ -1,4 +1,4 @@
-![Jhanpiere Montes](https://github.com/jhanpieremontes/jhanpieremontes/blob/master/cover-github.png)
+![Jhanpiere Montes](https://github.com/jhanpieremontes/jhanpieremontes/blob/main/cover-github.png)
 
 <h2 align="center">Hi! 👋 I´m Jhanpiere🙋‍♂️</h2>
 
